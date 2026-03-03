@@ -1,2 +1,2 @@
 # android-wfd-patch
-Android Pie wifi-display patch and prebuilt binaries for AOSP.
+Google Pixel 8 wifi-display test patch and prebuilt binaries for AOSP.
