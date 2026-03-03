@@ -1,4 +1,4 @@
-# Wifi-Display Patch for Android 9
+# Wifi-Display Test Patch for Google Pixel 8
 ## Patch Info
 AOSP Project:
 https://android.googlesource.com/platform/frameworks/av/
