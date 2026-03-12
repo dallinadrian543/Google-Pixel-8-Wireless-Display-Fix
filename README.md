@@ -1,4 +1,4 @@
-# pixel-8-wireless-display-fix
+# Google-Pixel-8-Wireless-Display-Fix
 Google Pixel 8 Wireless Display Fix magisk module (not tested on other phones).
 In testing phase (do not use yet)
 
